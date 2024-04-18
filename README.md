@@ -8,3 +8,5 @@ Information Extraction: Extracting relevant details such as invoice numbers, dat
 Automation: Automating the process of invoice bill information extraction to improve efficiency and reduce manual effort.
 
 The development of an automated system for detecting invoice bill information in Bills has significant potential in various domains. By leveraging deep learning techniques, particularly YOLO object detection, the system can accurately locate and extract invoice details, thereby streamlining processes and reducing manual effort. Continuous refinement and optimization of the model will further enhance its performance and applicability in real-world scenarios.
+
+![image](https://github.com/vaibhavkhamitkar12/Invoice-OCR/assets/48472833/310580b7-11ad-4a52-8507-d6dc26c87fa6)
